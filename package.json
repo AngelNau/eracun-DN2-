@@ -1,0 +1,13 @@
+{
+  "name": "dn2",
+  "description": "Spletna prodajalna e-Pesmi+",
+  "author": "Dejan Lavbič <Dejan@lavbic.net> & Sandi Gec <sandi.gec@fri.uni-lj.si>",
+  "dependencies": {
+    "express": "*",
+    "express-session": "*",
+    "formidable": "*",
+    "hbs": "*",
+    "sqlite3": "*"
+  },
+  "private": true
+}
